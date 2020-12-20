@@ -1,0 +1,23 @@
+{
+  "name": "React App",
+  "short_name": "Tracker",
+  "theme_color": "#2a3339",
+  "background_color": "#131618",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+
+  "icons": [
+   
+    {
+      "src": "Images/icon 192x192.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Images/icon 512x512.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
